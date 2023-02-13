@@ -1,5 +1,5 @@
 ---
-title: What is this?
+title: about
 draft: false
 description: What is lexian.stats, I will explain everything.
 ---
