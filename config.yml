@@ -46,6 +46,9 @@ params:
   logo: /img/logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Login
+      link: https://status.lexian.dev/admin/
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
