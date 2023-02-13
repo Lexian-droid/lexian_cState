@@ -2,7 +2,7 @@ title: Lexian Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://status.lexian.dev/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
