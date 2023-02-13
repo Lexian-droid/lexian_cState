@@ -1,6 +1,6 @@
 ---
 title: What is This?
-draft: false
+draft: true
 description: What is lexian.stats, I will explain everything.
 ---
 "lexian.stats" is a website dedicated to notifying our users about outages, issues, and updates. We will update this site whenever there is an issue on <b>our networks, infrastructure, etc.</b>
