@@ -38,7 +38,8 @@ params:
   down: "#e60000"
   systems:
     - name: lexian.dev
-      category: LexianDEV's main website
+      category: Lexian Services
+      description: LexianDEV's main website
     - name: app.lexian.dev
       category: Lexian Services
     - name: timewisely.net
