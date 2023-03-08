@@ -65,9 +65,9 @@ params:
   categories:
     - name: Lexian Services
       description: Services
-      closed: true
+      closed: false
       untitled: true
-    - closed: true
+    - closed: false
       untitled: true
       name: TimeWisely Services
       description: Services
