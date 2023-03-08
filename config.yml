@@ -39,6 +39,11 @@ params:
   systems:
     - name: Lexian.DEV
       category: Website
+    - name: timewisely.net
+      category: Website
+      description: A website by LexianDEV.
+    - name: experiments.timewisely.net
+      category: (Sub-domain) Website
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
