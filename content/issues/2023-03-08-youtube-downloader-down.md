@@ -9,6 +9,6 @@ pin: false
 resolvedWhen: ""
 affected:
   - experiments.timewisely.net
-severity: down
+severity: disrupted
 ---
 **Investigating** - We are aware of an issue with our YouTube Downloader webservice and are working on a solution ASAP.
