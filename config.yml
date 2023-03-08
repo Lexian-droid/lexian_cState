@@ -75,7 +75,7 @@ params:
   categories:
     - name: "[LexianDEV] Websites"
       description: LexianDEV's main services, websites, hosting solutions, etc.
-      closed: true
+      closed: false
       untitled: false
     - closed: false
       untitled: false
