@@ -64,13 +64,14 @@ params:
   ok: "#008000"
   categories:
     - name: Lexian Services
-      description: Services
+      description: LexianDEV's main services, websites, hosting solutions, etc.
       closed: false
-      untitled: true
+      untitled: false
     - closed: false
-      untitled: true
+      untitled: false
       name: TimeWisely Services
-      description: Services
+      description: LexianDEV's alternative services, TimeWisely Services is the public
+        main-branding for Lexian.
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
