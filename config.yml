@@ -49,7 +49,7 @@ params:
   enableLastMod: true
   headerTextColor: white
   logo: /img/logo.png
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 9
   googleAnalytics: UA-00000000-1
   customTabs:
     - name: Login
@@ -59,7 +59,7 @@ params:
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
@@ -67,6 +67,10 @@ params:
       description: Services
       closed: true
       untitled: true
+    - closed: true
+      untitled: true
+      name: TimeWisely Services
+      description: Services
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
