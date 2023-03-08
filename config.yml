@@ -37,7 +37,9 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Lexian.DEV
+    - name: lexian.dev
+      category: LexianDEV's main website
+    - name: app.lexian.dev
       category: Lexian Services
     - name: timewisely.net
       category: TimeWisely Services
