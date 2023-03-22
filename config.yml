@@ -75,9 +75,9 @@ params:
   categories:
     - name: "[LexianDEV] Websites"
       description: LexianDEV's main services, websites, hosting solutions, etc.
-      closed: false
+      closed: true
       untitled: false
-    - closed: false
+    - closed: true
       untitled: false
       name: "[TimeWisely] Websites"
       description: LexianDEV's alternative services, TimeWisely Services is the public
