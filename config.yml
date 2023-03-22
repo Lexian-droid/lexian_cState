@@ -37,20 +37,20 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: lexian.dev
+    - name: LexianDEV Main Site
       category: "[LexianDEV] Websites"
       description: LexianDEV's main website
       partial: Portfolio website for LexianDEV (Written in PHP and HTML, W3.CSS
         framework)
-    - name: app.lexian.dev
+    - name: LexianDEV App Site
       category: "[LexianDEV] Websites"
       description: LexianDEV's Gitea installation.
       partial: Gitea
-    - name: timewisely.net
+    - name: TimeWisely Main Site
       category: "[TimeWisely] Websites"
       description: LittleLink Custom installation pointing to many various websites.
       partial: LittleLink Custom
-    - name: experiments.timewisely.net
+    - name: TimeWisely Experiments Site
       category: "[TimeWisely] Websites"
       description: Experiments for TimeWisely's projects (May soon be deprecated.)
       partial: Soon to be deprecated.
