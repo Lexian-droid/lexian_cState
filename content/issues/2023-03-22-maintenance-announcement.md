@@ -16,7 +16,7 @@ affected:
   - experiments.timewisely.net
 severity: notice
 ---
-*On March 27th at **18:00** (12:00 PM) **UTC+2** to March 27th at ***19:15*** (1:15 PM) **UTC+2** The impacted services are:
+On March 27th at **18:00** (12:00 PM) **UTC+2** to March 27th at ***19:15*** (1:15 PM) **UTC+2** The impacted services are:
 
 * \[LexianDEV] Websites
 * \[TimeWisely] Websites
