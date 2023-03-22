@@ -38,20 +38,20 @@ params:
   down: "#e60000"
   systems:
     - name: LexianDEV Main Site
-      category: "[LexianDEV] Websites"
+      category: LexianDEV Websites
       description: LexianDEV's main website
       partial: Portfolio website for LexianDEV (Written in PHP and HTML, W3.CSS
         framework)
     - name: LexianDEV App Site
-      category: "[LexianDEV] Websites"
+      category: LexianDEV Websites
       description: LexianDEV's Gitea installation.
       partial: Gitea
     - name: TimeWisely Main Site
-      category: "[TimeWisely] Websites"
+      category: TimeWisely Websites
       description: LittleLink Custom installation pointing to many various websites.
       partial: LittleLink Custom
     - name: TimeWisely Experiments Site
-      category: "[TimeWisely] Websites"
+      category: TimeWisely Websites
       description: Experiments for TimeWisely's projects (May soon be deprecated.)
       partial: Soon to be deprecated.
   dateFormat: January 2, 2006 at 3:04 PM UTC
@@ -73,13 +73,13 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: "[LexianDEV] Websites"
+    - name: LexianDEV Websites
       description: LexianDEV's main services, websites, hosting solutions, etc.
       closed: true
       untitled: false
     - closed: true
       untitled: false
-      name: "[TimeWisely] Websites"
+      name: TimeWisely Websites
       description: LexianDEV's alternative services, TimeWisely Services is the public
         main-branding for Lexian.
   description: We continuously monitor the status of our services and if there are
