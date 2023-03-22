@@ -36,7 +36,25 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - category: LexianDEV's Webservices
+      name: lexian.dev
+      description: Portfolio Website
+    - category: LexianDEV's Webservices
+      name: app.lexian.dev
+      description: Gitea installation for backend hosting of certain repositories.
+    - category: LexianDEV's Webservices
+      name: radio.lexian.dev
+      description: Azuracast Installation - Host of AI Radio
+    - category: "TimeWisely Network: Web Services"
+      name: timewisely.net
+      description: LittleLink Custom Installation
+    - name: wiki.timewisely.net
+      category: "TimeWisely Network: Web Services"
+      description: MediaWiki installation
+    - category: "TimeWisely Network: Web Services"
+      name: experiments.timewisely.net
+      description: Experiments Website
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -55,7 +73,10 @@ params:
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: LexianDEV's Webservices
+      closed: true
+    - name: "TimeWisely Network: Web Services"
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
