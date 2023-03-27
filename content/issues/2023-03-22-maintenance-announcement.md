@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Maintenance Announcement
+title: "[Completed] Maintenance Announcement"
 date: 2023-03-27T16:00:13.479Z
 resolved: true
 draft: false
@@ -16,9 +16,4 @@ affected:
   - experiments.timewisely.net
 severity: notice
 ---
-On March 27th at **18:00** (12:00 PM) **UTC+2** to March 27th at ***19:15*** (1:15 PM) **UTC+2** The impacted services are:
-
-* \[LexianDEV] Websites
-* \[TimeWisely] Websites
-
-These services will be down during the Maintenance period.
+As of 3:00 PM EST, **the Maintenance period has been concluded**. Thank you for your cooperation.
