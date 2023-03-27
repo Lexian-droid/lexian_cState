@@ -2,7 +2,7 @@
 section: issue
 title: Maintenance Announcement
 date: 2023-03-27T16:00:13.479Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
